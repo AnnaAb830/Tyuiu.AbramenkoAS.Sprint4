@@ -21,7 +21,7 @@ namespace Tyuiu.AbramenkoAS.Sprint4.Task3.V26
             Console.Title = "Спринт #4 | Выполнилa: Абраменко А. С. | ИБКСб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
-            Console.WriteLine("* Тема: Двухмерные массивы(статический ввод)                              *");
+            Console.WriteLine("* Тема: Двумерные массивы(статический ввод)                               *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #26                                                             *");
             Console.WriteLine("* Выполнила: Абраменко А. С. | ИБКСб-26-1                                 *");
